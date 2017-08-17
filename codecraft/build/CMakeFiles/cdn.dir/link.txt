@@ -1,0 +1,1 @@
+/usr/bin/c++    -O3 -Wall -std=c++11    CMakeFiles/cdn.dir/own.cpp.o CMakeFiles/cdn.dir/deploy.cpp.o CMakeFiles/cdn.dir/cdn.cpp.o CMakeFiles/cdn.dir/io.cpp.o  -o /home/wp/Compete/HW/HUAWEI_Code_Craft_2017_Preliminary_Contest_Question_en_v1.3/SDK-gcc/bin/cdn -rdynamic 
